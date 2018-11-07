@@ -1,129 +1,168 @@
 ## Election Night Scrapers 11/6/2018
 
-### Alabama (AL)
-Unofficial Results URL: http://www2.alabamavotes.gov/electionnight/statewideresultsbycontest.aspx?ecode=1001030
+Results posted in MEDSL/2018-elections/raw-results
+
+### Alabama (AL
+* results unavailable
+* Alabama removed results by 9:10 AM EST 11/7/2018
+* Unofficial Results URL: http://www2.alabamavotes.gov/electionnight/statewideresultsbycontest.aspx?ecode=1001030
 
 ### Alaska (AK)
-Unofficial Results URL:  http://results.elections.alaska.gov/data/results.txt
-
+* Unofficial Results URL:  http://results.elections.alaska.gov/data/results.txt
+* Results available
 ### Arizona (AZ)
-Unofficial Results URL: https://results.arizona.vote/#/featured/4/0
-Scraper to come. 
+* Unofficial Results URL: https://results.arizona.vote/#/featured/4/0
+* Results to come. 
+* Scraper to come. 
 
 ### Arkansas (AR)
-Unofficial Results URL: http://results.enr.clarityelections.com/AR/92174/Web02-state.216038/
+* Unofficial Results URL: http://results.enr.clarityelections.com/AR/92174/Web02-state.216038/
 
 ### California (CA)
-Unofficial Results URL: https://vote.sos.ca.gov/
-Scraper to come.
-
+* Unofficial Results URL: https://vote.sos.ca.gov/
+* Results to come. 
+* Scraper to come. 
 ### Colorado (CO)
-Unofficial Results URL: https://results.enr.clarityelections.com/CO/91808/Web02-state.216038/#/
-
+ * Unofficial Results URL: https://results.enr.clarityelections.com/CO/91808/Web02-state.216038/#/
+ * county-level results
+ 
 ### Connecticut (CT)
-Unofficial Results URL: https://ctemspublic.pcctg.net 
-Scraper to come.
+* Unofficial Results URL: https://ctemspublic.pcctg.net 
+* Results to come. 
+* Scraper to come. 
 
 ### Delaware (DE)
-Unofficial Results URL: https://elections.delaware.gov/results/html/unofresl.shtml
+* Unofficial Results URL: https://elections.delaware.gov/results/html/unofresl.shtml
+* election district level results
+* other breakdowns available at URL 
 
 ### District of Columbia (DC)
-Unofficial Results URL: https://electionresults.dcboe.org/election_results/2018-General-Election
+* Unofficial Results URL: https://electionresults.dcboe.org/election_results/2018-General-Election
+* Ward-level results
 
 ### Florida (FL)
-Unofficial Results URL: https://floridaelectionwatch.gov/  
+* Unofficial Results URL: https://floridaelectionwatch.gov/  
+* County-level results
 
 ### Georgia (GA)
-Unofficial Results URL: https://results.enr.clarityelections.com/GA/91639/Web02-state.216038/
+* Unofficial Results URL: https://results.enr.clarityelections.com/GA/91639/Web02-state.216038/
+* County-level results 
 
 ### Hawaii (HI)
-Unofficial Results URL: https://electionresults.dcboe.org/election_results/2018-General-Election
-Results will be posted. Unavailable (11/6/18 11:09 PM) 
+* Unofficial Results URL: https://elections.hawaii.gov/wp-content/results/media.txt
+* Precinct-level results
 
 ### Idaho (ID)
-Unofficial Results URL: https://sos.idaho.gov/elect/results/2018/General/ENR/xml_access.html
+* Unofficial Results URL: https://sos.idaho.gov/elect/results/2018/General/ENR/xml_access.html
+* County-level results 
+* XML results
 
 ### Illinois (IL)
-Unofficial Results URL:  https://www.elections.il.gov/ElectionResults.aspx?
+* Unofficial Results URL:  Currently unavailable. 
 
-### Indiana (IN)
-Unofficial Results URL: https://indianaenr.blob.core.usgovcloudapi.net/site/index.html
+
+### Indiana (IN) 
+* Unofficial Results URL: https://indianaenr.blob.core.usgovcloudapi.net/site/index.html
+* Precinct-level 
 
 ### Iowa (IA)
-Unofficial Results URL: https://results.enr.clarityelections.com/IA/91323/Web02-state.216038/
+* Unofficial Results URL: https://results.enr.clarityelections.com/IA/91323/Web02-state.216038/
+* County-level results
 
-### Kansas (KS)
-Unofficial Results URL: https://ent.sos.ks.gov/kssos_ent.html
-Scraper to come. 
+### Kansas (KS) 
+* Unofficial Results URL: https://ent.sos.ks.gov/kssos_ent.html
+* Results to come. 
+* Scraper to come. 
 
 ### Kentucky (KY)
-Unofficial Results URL: http://results.enr.clarityelections.com/KY/91996/216579/Web01/en/summary.html
+* Unofficial Results URL: http://results.enr.clarityelections.com/KY/91996/216579/Web01/en/summary.html
+* County-level results.
 
 ### Louisiana (LA)
-Unofficial Results URL: https://voterportal.sos.la.gov/static/2018-11-06
-Scraper to come.
+* Unofficial Results URL: https://voterportal.sos.la.gov/static/2018-11-06
+* Results to come. 
+* Scraper to come. 
 
 ### Maine (ME)
-Unofficial Results URL: Currently unavailable (11/6/18 10:21 PM EST)
+* Results unavailable. (11/06/18 11:30 PM)
 
 ### Maryland (MD)
-Unofficial Results URL: https://results.elections.maryland.gov/elections/2018/results/General/index.html
+* Unofficial Results URL: https://results.elections.maryland.gov/elections/2018/results/General/index.html
+* Results to come. 
+* Scraper to come. 
 
 ### Massachusetts (MA)
 Unofficial Results URL:  Currently unavailable (11/6/18 10:26 PM EST)
 
 ### Michigan (MI)
-Unofficial Results URL: https://mielections.us/election/results/2018GEN_CENR.html
+* Unofficial Results URL: https://mielections.us/election/results/2018GEN_CENR.html
+* county-level results 
 
 ### Minnesota (MN)
-Unofficial Results URL: https://electionresults.sos.state.mn.us/Select/Download/115
+* Unofficial Results URL: https://electionresults.sos.state.mn.us/Select/Download/115
+* precinct-level results 
+* other breakdowns available at URL 
 
 ### Mississippi (MS)
-Unofficial Results URL: Currently unavailable (11/6/18 10:32 PM EST)
+* Unofficial Results URL: Currently unavailable (11/6/18 10:32 PM EST)
 
 ### Missouri (MO)
-Unofficial Results URL: https://enr.sos.mo.gov/
+* Unofficial Results URL: https://enr.sos.mo.gov/
+* Results to come. 
+* Scraper to come. 
 
 ### Montana (MT)
-Unofficial Results URL: http://mtelectionresults.gov/ResultsExport.aspx
+* Unofficial Results URL: http://mtelectionresults.gov/ResultsExport.aspx
+* County-level results. 
+* other breakdowns available at URL.
 
 ### Nebraska (NE)
 Unofficial Results URL: https://electionresults.sos.ne.gov/
-Scraper to come
+* Results to come. 
+* Scraper to come. 
 
 ### Nevada (NV)
 Unofficial Results URL: http://www.silverstateelection.com/ 
 No results currently available (11/6/18 10:37)
 
 ### New Hampshire (NH)
-Unofficial Results URL: Currently unavailable (11/6/18 10:41 PM EST)
+* Unofficial Results URL: Currently unavailable (11/6/18 10:41 PM EST)
 
 ### New Jersey (NJ)
-Unofficial Results URL: Currently unavailable (11/6/18 10:42 PM EST) 
+* Unofficial Results URL: Currently unavailable (11/6/18 10:42 PM EST) 
 
 ### New Mexico (NM)
-Unofficial Results URL: http://electionresults.sos.state.nm.us/
+* Unofficial Results URL: http://electionresults.sos.state.nm.us/
+* Results to come (precinct-level)
 
 ### New York (NY)
-Unofficial Results URL: https://nyenr.elections.ny.gov/
+* Unofficial Results URL: https://nyenr.elections.ny.gov/
+* Results to come.
+* Scrapers to come 
 
 ### North Carolina (NC)
-Unofficial Results URL:  https://er.ncsbe.gov/?election_dt=11/06/2018
+* Unofficial Results URL:  https://er.ncsbe.gov/?election_dt=11/06/2018
+* Precinct-level
+* Other breakdowns available
 
 ### North Dakota (ND)
-Unofficial Results URL: https://results.sos.nd.gov/Default.aspx?map=Cty
-
+* Unofficial Results URL: https://results.sos.nd.gov/Default.aspx?map=Cty
+* Results to come. 
 ### Ohio (OH)
-Unofficial Results URL: https://vote.ohio.gov/
+* Unofficial Results URL: https://vote.ohio.gov/
+* County-level results
 
 ### Oklahoma (OK)
-Unofficial Results URL: https://results.okelections.us/OKER/?elecDate=20181106
-
+* Unofficial Results URL: https://results.okelections.us/OKER/?elecDate=20181106
+* Results to come. 
 ### Oregon (OR)
-Unofficial Results URL: http://results.oregonvotes.gov/
+* Unofficial Results URL: http://results.oregonvotes.gov/
+* Results to come
 
 ### Pennsylvania (PA)
-Unofficial Results URL: https://www.electionreturns.pa.gov/
+* Unofficial Results URL: https://www.electionreturns.pa.gov/
+* County-level results
+* Other breakdowns available. 
 
 ### Rhode Island (RI)
 Unofficial Results URL: https://www.ri.gov/election/results/2018/general_election/
